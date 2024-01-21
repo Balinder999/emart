@@ -1,0 +1,12 @@
+{
+    "dart.flutterHotReloadOnSave": "all",
+    "dart.hotReloadOnSave": "all",
+    "dart.previewHotReloadOnSaveWatcher": true,
+    "dart.flutterScreenshotPath": null,
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 500,
+    "editor.formatOnSave": true,
+    "dart.flutterGenerateLocalizationsOnSave": "all",
+    "files.refactoring.autoSave": true,
+    "editor.codeActionsOnSave": {},
+}

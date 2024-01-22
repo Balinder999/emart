@@ -1,3 +1,4 @@
+import 'package:emart_app/view/Profile_Screen/Profile_Screen.dart';
 import 'package:emart_app/view/Splash_Screen.dart';
 import 'package:emart_app/view/cetageries_Screen/Cetegories_Screen.dart';
 import 'package:flutter/material.dart';
@@ -27,5 +28,5 @@ class MyApp extends StatelessWidget {
       ),
       home: const Splash_Screen(),
     );
-  } 
+  }
 }

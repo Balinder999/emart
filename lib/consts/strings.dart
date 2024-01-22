@@ -7,6 +7,7 @@ const password = "Password";
 const passwordHint = "*******";
 const forgetpass = "Forget password";
 const login = "Login";
+const logout = "Logout";
 const signup = "Sign Up";
 const createNewAccount = "or , Create a new account";
 const loginwith = "Log in with";
@@ -58,3 +59,7 @@ const video = "Videos",
     returnpolicy = "Return Policy",
     supportpolicy = "Support Policy",
     poductsyoumaylike = "Product you may also like";
+
+// Profile string
+
+const wishlist = "My Wishlist", order = "My Order", message = "Message";
